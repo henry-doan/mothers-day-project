@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+a {
+  display: block;
+  height: 100%;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  font-family: cursive;
+  padding-top: 25%;
+  font-size: 45px;
+}
+
+#first {
+  background-color: #ff4e4e;
+}
+
+#second {
+  background-color: #ff8bd3;
+}
+
+#third {
+  background-color: #8bdeff;
+}
+
+canvas {
+  background-color: #B20000;
+  height: 40vh;
+  max-width: 40vw;
+  vertical-align: middle;
+}
+
+.container {
+  height: 100vh;
+  padding: 20%;
+  background-color: #FF8B8B;
+}
